@@ -1,0 +1,12 @@
+#myScrollspy{
+	border-style: solid;
+    border-width: small;
+    border-radius: 10px;
+    border-color: #ECF0F1;
+
+}
+
+#center {
+    width: 1100px;
+	height: 250px;
+}
